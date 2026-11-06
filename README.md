@@ -1,16 +1,14 @@
-## Hi there 👋
+# Salom, men Xusniddin 👋
 
-<!--
-**mrazamov577/mrazamov577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Men haqimda
+Men Toshkent shahridagi universitet talabasiman. Server administratsiyasi, kompyuter tarmoqlari, raqamli marketing va multimedia texnologiyalari yo'nalishlarida bilim olaman.
 
-Here are some ideas to get you started:
+## Hozir nima bilan shug'ullanaman
+🔭 Git va GitHub asoslarini o'rganmoqdaman.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Server administratsiyasi va tarmoqlarni o'rganmoqdaman.
+
+🤝 Pull request, code review va collaborators bilan ishlashni mashq qilmoqdaman.
+
+## Aloqa
+GitHub: [@mrazamov577](https://github.com/mrazamov577)
